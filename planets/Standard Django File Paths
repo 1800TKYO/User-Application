@@ -1,7 +1,7 @@
 import os
 
 # Application definition
-'appname.apps.MarsConfig',
+'appname.apps.AppnameConfig',
 
 static file path
 
